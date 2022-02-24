@@ -94,13 +94,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexasRepo</id>
+	      <id>nexus</id>
 	      <name>admin</name>
 	      <url>http://52.91.214.188:8081/repository/sample-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexasRepo</id>
+	      <id>nexus</id>
 	      <name>admin</name>
 	      <url>http://52.91.214.188:8081/repository/sample-snapshot/</url>
 	    </snapshotRepository>
